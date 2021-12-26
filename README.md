@@ -8,3 +8,4 @@ En este curso he aprendido:
 * Todos los comandos necesarios de git
 * Flujo de trabajo
 * Buenas Practicas
+* Ejemplos en Linux Mac y Windows
