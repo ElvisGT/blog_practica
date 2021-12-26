@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 Esta es la historia de la buena pipa
 
-=======
-Esta es la historia de la buena pipa
-
->>>>>>> ee27441bcf61cd9a83857ace6867f0b37e690008
 Es contada por Felipe
