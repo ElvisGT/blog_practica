@@ -47,6 +47,11 @@ body{
     padding: 1em;
 }
 
+#dentro-p{
+    width: 40%;
+    border: 1px red solid;
+}
+
 #footer{
     background: #37488b;
     color:white;
